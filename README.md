@@ -21,7 +21,7 @@ Please report any bug you can find in [Official wiki placeholders luckperms](htt
 
 ## Bugs
 
-Please report any bug you can find in [Github issue tracker](https://github.com/matahombres/LuckHolders/issues).
+Please report any bug you can find in [Github issue tracker](https://github.com/matahombres/LuckHolders/issues2).
 
 ## Download
 
