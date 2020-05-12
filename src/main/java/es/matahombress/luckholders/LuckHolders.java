@@ -48,8 +48,8 @@ import org.spongepowered.api.text.Text;
 })
 public class LuckHolders {
     
-    public static final String PLUGIN_ID = "luckholders";
-    public static final String PLUGIN_NAME = "LuckHolders";
+    public static final String PLUGIN_ID = "luckholders2";
+    public static final String PLUGIN_NAME = "LuckHolders2";
     public static final String VERSION = "1.0";
     public static final Logger LOGGER = LoggerFactory.getLogger(PLUGIN_NAME);
     public static LuckPerms luckperms;
